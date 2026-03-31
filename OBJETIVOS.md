@@ -1,0 +1,4 @@
+"OBJETIVOS:"
+1.  Analizar el promedio de volúmenes de ventas por cada tienda para identificar las sedes con mayor eficiencia y volumen de movimiento.
+2.  Determinar la relación entre las variables de precio base y el precio total en la cantidad de productos vendidos.
+3. Modelar un escenario hipotético de la demanda y las unidades vendidas de un incremento del 10% para identificar el comportamiento futuro de las unidades vendidas.
