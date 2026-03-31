@@ -1,7 +1,4 @@
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import statsmodels.api as sm
 
 # 1. CARGA Y LIMPIEZA DE DATOS
 # 1.1 Cargamos el dataset
