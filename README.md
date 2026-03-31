@@ -12,15 +12,12 @@ la estrategia comercial de una empresa retail nacional.
 | `matplotlib` | Visualización de gráficos y histogramas |
 | `statsmodels` | Modelos de regresión OLS (Log-Log y Lin-Lin) |
 
-## 📊 Objetivos del análisis
+## 📁 Estructura del repositorio
 
-1. Analizar el promedio de ventas por tienda
-2. Determinar la relación entre precio base y unidades vendidas
-3. Modelar un escenario hipotético con incremento del 10% en precios
-
-## 📁 Archivos del repositorio
-
-- `1.Descripción.md` — Contexto del negocio
-- `2.Objetivos.md` — Objetivos específicos
-- `3.Limpieza.py` — Limpieza y preparación de datos
-- `cod_consolidado.ipynb` — Análisis completo con gráficos
+| Archivo | Descripción |
+|---|---|
+| `1.Descripción.md` | Contexto del negocio |
+| `2.Objetivos.md` | Objetivos específicos del análisis |
+| `3.Limpieza.py` | Limpieza y preparación de datos |
+| `cod_consolidado.ipynb` | Análisis completo con gráficos y modelos |
+| `conjunto de datos.txt` | Dataset utilizado |
