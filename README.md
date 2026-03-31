@@ -1,0 +1,26 @@
+# 🛒 Comercializadora del Sur — Análisis de Datos con Python
+
+Proyecto de análisis y modelado predictivo para optimizar 
+la estrategia comercial de una empresa retail nacional.
+
+## 🛠️ Herramientas utilizadas
+
+| Librería | Uso |
+|---|---|
+| `pandas` | Carga, limpieza y manipulación de datos |
+| `numpy` | Transformaciones logarítmicas y cálculos numéricos |
+| `matplotlib` | Visualización de gráficos y histogramas |
+| `statsmodels` | Modelos de regresión OLS (Log-Log y Lin-Lin) |
+
+## 📊 Objetivos del análisis
+
+1. Analizar el promedio de ventas por tienda
+2. Determinar la relación entre precio base y unidades vendidas
+3. Modelar un escenario hipotético con incremento del 10% en precios
+
+## 📁 Archivos del repositorio
+
+- `1.Descripción.md` — Contexto del negocio
+- `2.Objetivos.md` — Objetivos específicos
+- `3.Limpieza.py` — Limpieza y preparación de datos
+- `cod_consolidado.ipynb` — Análisis completo con gráficos
